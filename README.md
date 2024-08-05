@@ -5,8 +5,18 @@ A Online retail dashboard development by Janani
 
     As a retail shop owner, they would like to analyze the 
 
-    - Best Performing Product of the Year
-    - 
+    - Best Performing Products in terms of Quantity & Price
+    - Best Performing month for Overall product revenue
+    - Productwise Monthly Performance
+    - Best Performing Regions
+    - Top Customers 
+
+    All the information should be interactive & dynamic to support future data.
+
+## Charts Used to Reveal the Truth
+
+
+## Dashboard Controls Used to Filter the Data
 
 
 Data Used:
